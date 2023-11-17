@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/adip071020](https://github.com/adip071020)
 
-- 💬 Ask me about **react, java, html**
+- 💬 Ask me about **flutter, PHP**
 
 - 📫 How to reach me **pradiptaahmad8@gmail.com**
 
