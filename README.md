@@ -44,21 +44,16 @@ Sunday                   356 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      52 mins             ███████████░░░░░░░░░░░░░░   45.97 % 
-Dart                     28 mins             ██████░░░░░░░░░░░░░░░░░░░   24.84 % 
-Blade Template           24 mins             █████░░░░░░░░░░░░░░░░░░░░   21.94 % 
-YAML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 53 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-example-app              1 hr 19 mins        █████████████████░░░░░░░░   69.62 % 
-favorite_movie_sqflite   34 mins             ████████░░░░░░░░░░░░░░░░░   30.38 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 53 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C++** 
@@ -78,5 +73,5 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PradiptaAhmad/PradiptaAhmad/main/assets/bar_graph.png)
 
 
- Last Updated on 12/02/2024 01:11:47 UTC
+ Last Updated on 13/02/2024 01:11:57 UTC
 <!--END_SECTION:waka-->
