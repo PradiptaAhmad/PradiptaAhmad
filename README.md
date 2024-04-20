@@ -42,21 +42,16 @@ Sunday                   180 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Dart                     1 hr 41 mins        █████████████████████████   99.03 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
-PHP                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
-Image (svg)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 42 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-wash_it                  1 hr 41 mins        █████████████████████████   98.94 % 
-govbill                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
-washit-api               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 42 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C++** 
@@ -76,5 +71,5 @@ C#                       2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PradiptaAhmad/PradiptaAhmad/main/assets/bar_graph.png)
 
 
- Last Updated on 19/04/2024 01:14:12 UTC
+ Last Updated on 20/04/2024 01:13:33 UTC
 <!--END_SECTION:waka-->
