@@ -44,16 +44,18 @@ Sunday                   180 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+PHP                      11 mins             █████████████████████░░░░   84.10 % 
+Blade Template           2 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  14 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+washit-api               14 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  14 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -73,5 +75,5 @@ C#                       2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PradiptaAhmad/PradiptaAhmad/main/assets/bar_graph.png)
 
 
- Last Updated on 23/04/2024 01:17:00 UTC
+ Last Updated on 24/04/2024 01:17:25 UTC
 <!--END_SECTION:waka-->
