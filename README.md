@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-69%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-67%20hrs%2049%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-302.5%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 127.5 kB Used in GitHub's Storage 
+> 📦 127.6 kB Used in GitHub's Storage 
  > 
-> 🏆 75 Contributions in the Year 2024
+> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -44,18 +44,21 @@ Sunday                   180 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      11 mins             █████████████████████░░░░   84.10 % 
-Blade Template           2 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+PHP                      3 hrs 50 mins       ████████████████████████░   96.55 % 
+Bash                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+Blade Template           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-VS Code                  14 mins             █████████████████████████   100.00 % 
+VS Code                  3 hrs 59 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-washit-api               14 mins             █████████████████████████   100.00 % 
+washit-api               3 hrs 57 mins       █████████████████████████   99.46 % 
+example-app              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 💻 Operating System: 
-Windows                  14 mins             █████████████████████████   100.00 % 
+Windows                  3 hrs 59 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -75,5 +78,5 @@ C#                       2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PradiptaAhmad/PradiptaAhmad/main/assets/bar_graph.png)
 
 
- Last Updated on 25/04/2024 12:58:17 UTC
+ Last Updated on 26/04/2024 01:14:52 UTC
 <!--END_SECTION:waka-->
