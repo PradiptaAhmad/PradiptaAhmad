@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-140%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-142%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
@@ -7,7 +7,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 98.3 kB Used in GitHub's Storage 
+> 📦 105.1 kB Used in GitHub's Storage 
  > 
 > 🏆 151 Contributions in the Year 2024
  > 
@@ -78,5 +78,5 @@ C#                       2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PradiptaAhmad/PradiptaAhmad/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2024 01:23:04 UTC
+ Last Updated on 28/07/2024 01:36:49 UTC
 <!--END_SECTION:waka-->
