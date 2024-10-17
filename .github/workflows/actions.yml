@@ -16,3 +16,4 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_LINES_OF_CODE: true
           COMMIT_MESSAGE: "updates waka readme"
+          SHOW_PROJECTS: "False"
