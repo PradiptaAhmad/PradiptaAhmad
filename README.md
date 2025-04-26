@@ -9,6 +9,8 @@
 
 > 📦 109.2 kB Used in GitHub's Storage 
  > 
+> 🏆 115 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 38 Public Repositories 
@@ -42,13 +44,16 @@ Sunday                   260 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Bash                     18 mins             ██████████████████████░░░   87.95 % 
+PHP                      1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Docker                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  21 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  21 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -68,5 +73,5 @@ C#                       2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PradiptaAhmad/PradiptaAhmad/main/assets/bar_graph.png)
 
 
- Last Updated on 25/04/2025 01:58:17 UTC
+ Last Updated on 26/04/2025 01:53:25 UTC
 <!--END_SECTION:waka-->
