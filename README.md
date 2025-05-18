@@ -9,6 +9,8 @@
 
 > 📦 109.2 kB Used in GitHub's Storage 
  > 
+> 🏆 115 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 38 Public Repositories 
@@ -68,5 +70,5 @@ C#                       2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PradiptaAhmad/PradiptaAhmad/main/assets/bar_graph.png)
 
 
- Last Updated on 17/05/2025 01:57:23 UTC
+ Last Updated on 18/05/2025 02:06:57 UTC
 <!--END_SECTION:waka-->
