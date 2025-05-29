@@ -7,9 +7,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 109.2 kB Used in GitHub's Storage 
- > 
-> 🏆 115 Contributions in the Year 2025
+> 📦 109.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -70,5 +68,5 @@ C#                       2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PradiptaAhmad/PradiptaAhmad/main/assets/bar_graph.png)
 
 
- Last Updated on 28/05/2025 02:02:25 UTC
+ Last Updated on 29/05/2025 02:02:14 UTC
 <!--END_SECTION:waka-->
