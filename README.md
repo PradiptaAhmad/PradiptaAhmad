@@ -44,13 +44,14 @@ Sunday                   260 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Bash                     26 mins             ███████████████████░░░░░░   74.62 % 
+PHP                      8 mins              ██████░░░░░░░░░░░░░░░░░░░   25.38 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  35 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  35 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -70,5 +71,5 @@ C#                       2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PradiptaAhmad/PradiptaAhmad/main/assets/bar_graph.png)
 
 
- Last Updated on 12/06/2025 02:03:04 UTC
+ Last Updated on 13/06/2025 02:04:21 UTC
 <!--END_SECTION:waka-->
