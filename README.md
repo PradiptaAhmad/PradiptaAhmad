@@ -1,13 +1,15 @@
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-568%20hrs%2047%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.08%20million%20lines%20of%20code-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.09%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 110.1 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2026
+> 🏆 4 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -15,6 +17,46 @@
  > 
 > 🔑 3 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1440 commits        ███████████░░░░░░░░░░░░░░   45.53 % 
+🌆 Daytime                710 commits         ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
+🌃 Evening                652 commits         █████░░░░░░░░░░░░░░░░░░░░   20.61 % 
+🌙 Night                  361 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   403 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
+Tuesday                  660 commits         █████░░░░░░░░░░░░░░░░░░░░   20.87 % 
+Wednesday                755 commits         ██████░░░░░░░░░░░░░░░░░░░   23.87 % 
+Thursday                 377 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+Friday                   422 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
+Saturday                 283 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
+Sunday                   263 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+Dart                     15 hrs 43 mins      █████████████████████████   99.54 % 
+YAML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔥 Editors: 
+VS Code                  15 hrs 47 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  15 hrs 47 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Dart** 
 
 ```text
@@ -32,5 +74,5 @@ C#                       2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PradiptaAhmad/PradiptaAhmad/main/assets/bar_graph.png)
 
 
- Last Updated on 04/01/2026 02:27:59 UTC
+ Last Updated on 06/01/2026 02:11:31 UTC
 <!--END_SECTION:waka-->
