@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-592%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-601%20hrs%2015%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
 
@@ -7,7 +7,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 110.1 kB Used in GitHub's Storage 
+> 📦 110.2 kB Used in GitHub's Storage 
  > 
 > 🏆 6 Contributions in the Year 2026
  > 
@@ -44,17 +44,17 @@ Sunday                   263 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Dart                     32 hrs 50 mins      █████████████████████████   99.03 % 
-YAML                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Dart                     38 hrs 21 mins      █████████████████████████   98.67 % 
+YAML                     28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 Kotlin                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  33 hrs 10 mins      █████████████████████████   100.00 % 
+VS Code                  38 hrs 52 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  33 hrs 10 mins      █████████████████████████   100.00 % 
+Windows                  38 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -74,5 +74,5 @@ C#                       2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PradiptaAhmad/PradiptaAhmad/main/assets/bar_graph.png)
 
 
- Last Updated on 10/01/2026 02:08:32 UTC
+ Last Updated on 11/01/2026 02:28:32 UTC
 <!--END_SECTION:waka-->
