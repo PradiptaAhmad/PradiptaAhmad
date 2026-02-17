@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-673%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-678%20hrs%2035%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -44,15 +44,15 @@ Sunday                   270 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Dart                     22 hrs 5 mins       █████████████████████████   98.55 % 
-YAML                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
-XML                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Dart                     15 hrs 24 mins      ████████████████████████░   97.98 % 
+YAML                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+XML                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 🔥 Editors: 
-VS Code                  22 hrs 24 mins      █████████████████████████   100.00 % 
+VS Code                  15 hrs 43 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  22 hrs 24 mins      █████████████████████████   100.00 % 
+Windows                  15 hrs 43 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -72,5 +72,5 @@ C#                       2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PradiptaAhmad/PradiptaAhmad/main/assets/bar_graph.png)
 
 
- Last Updated on 16/02/2026 02:47:13 UTC
+ Last Updated on 17/02/2026 02:43:32 UTC
 <!--END_SECTION:waka-->
