@@ -46,19 +46,38 @@ Sunday                   270 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   0 secs              █████████████████████████   100.00 % 
+TypeScript               52 mins             █████████████████████░░░░   83.35 % 
+JSON                     10 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+VS Code                  55 mins             ██████████████████████░░░   88.43 % 
+Antigravity IDE          5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+Antigravity Desktop      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+Windows                  1 hr 3 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 39 mins (63.15%)
+
+✍️ 0 lines written by AI, 11 lines written by hand (0.0% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 2 AI Prompts
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 12 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -78,5 +97,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PradiptaAhmad/PradiptaAhmad/main/assets/bar_graph.png)
 
 
- Last Updated on 04/08/2026 03:17:45 UTC
+ Last Updated on 05/08/2026 02:58:19 UTC
 <!--END_SECTION:waka-->
