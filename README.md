@@ -9,15 +9,15 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 116.5 kB Used in GitHub's Storage 
+> 📦 116.7 kB Used in GitHub's Storage 
  > 
-> 🏆 27 Contributions in the Year 2026
+> 🏆 28 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 40 Public Repositories 
  > 
-> 🔑 4 Private Repositories 
+> 🔑 5 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -83,11 +83,11 @@ Windows                  1 hr 3 mins         ███████████�
 **I Mostly Code in Dart** 
 
 ```text
-Dart                     11 repos            ███████░░░░░░░░░░░░░░░░░░   28.21 % 
-PHP                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
-JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-C#                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+Dart                     11 repos            ███████░░░░░░░░░░░░░░░░░░   27.50 % 
+PHP                      6 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
+C#                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
 ```
 
 
@@ -97,5 +97,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PradiptaAhmad/PradiptaAhmad/main/assets/bar_graph.png)
 
 
- Last Updated on 08/08/2026 02:02:35 UTC
+ Last Updated on 09/08/2026 02:11:12 UTC
 <!--END_SECTION:waka-->
