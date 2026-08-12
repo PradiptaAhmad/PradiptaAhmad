@@ -46,37 +46,19 @@ Sunday                   270 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               52 mins             █████████████████████░░░░   83.59 % 
-JSON                     10 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  55 mins             ██████████████████████░░░   88.40 % 
-Antigravity IDE          5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
-Antigravity Desktop      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 2 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 39 mins (63.32%)
-
-✍️ 0 lines written by AI, 7 lines written by hand (0.0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 2 AI Prompts
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 12 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Dart** 
@@ -96,5 +78,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PradiptaAhmad/PradiptaAhmad/main/assets/bar_graph.png)
 
 
- Last Updated on 11/08/2026 02:10:31 UTC
+ Last Updated on 12/08/2026 02:26:26 UTC
 <!--END_SECTION:waka-->
