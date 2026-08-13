@@ -9,7 +9,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 116.7 kB Used in GitHub's Storage 
+> 📦 116.8 kB Used in GitHub's Storage 
  > 
 > 🏆 28 Contributions in the Year 2026
  > 
@@ -65,10 +65,10 @@ No AI Coding Activity Tracked This Week
 
 ```text
 Dart                     11 repos            ███████░░░░░░░░░░░░░░░░░░   27.50 % 
-PHP                      6 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+PHP                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
 JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 C#                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
 ```
 
 
@@ -78,5 +78,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PradiptaAhmad/PradiptaAhmad/main/assets/bar_graph.png)
 
 
- Last Updated on 12/08/2026 02:26:26 UTC
+ Last Updated on 13/08/2026 02:29:26 UTC
 <!--END_SECTION:waka-->
